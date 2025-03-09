@@ -51,13 +51,13 @@ The player enters 0000 to exit the game.
 ## Color Map
 The digits correspond to the following colors:
 
-Digit	Color
-- 1	White
-- 2	Blue
-- 3	Red
-- 4	Yellow
-- 5	Green
-- 6	Purple
+  Digit	  -   Color
+- 1	      -   White
+- 2	      -  Blue
+- 3	      -   Red
+- 4	      -    Yellow
+- 5	      -   Green
+- 6       -   Purple
 
 ## Hints
 After each guess, the game provides hints using the following system:
